@@ -15,6 +15,16 @@
       "dogBreed": "Husky",
       "submit": "Submit",
       "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
   "cats": [
